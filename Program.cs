@@ -11,6 +11,8 @@ namespace _4_1
                 //new comment for new branch
                 //comment from github
                 //comment from vs
+                var a = "hello";
+                var b = new 
         }
     }
 }
